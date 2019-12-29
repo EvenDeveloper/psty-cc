@@ -1,5 +1,6 @@
 Package: org.evendev.psty-cc
 Name: psty-cc
+Depends: mobilesubstrate, com.opa334.ccsupport
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Easy-access psty button to quickly upload your clipboard to psty.io
