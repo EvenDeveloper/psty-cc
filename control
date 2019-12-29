@@ -1,0 +1,8 @@
+Package: org.evendev.psty-cc
+Name: psty-cc
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Easy-access psty button to quickly upload your clipboard to psty.io
+Maintainer: EvenDev
+Author: EvenDev
+Section: Control Center (Modules)
